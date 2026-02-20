@@ -8,7 +8,9 @@ body {
 }
 
 div {
-    outline: 4px solid white;
+    outline: 4px solid rgb(117, 45, 42);
+    border-radius: 5px;
+    background-color: #000a14;
     width: 750px;
     padding: 25px;
     margin-left: auto;
