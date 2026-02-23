@@ -5,7 +5,7 @@ date:   2023-03-11
 categories: mods
 ---
 ### Infinite Discoveries is a procedural star system generator for Kerbal Space Program.
-[![Image](/assets/images/idbanner.jpg)](/mods/InfiniteDiscoveries/)
+[![Image](/assets/images/idbanner.jpg)](/mods/InfiniteDiscoveries.html)
 
 ### Latest trailer:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uJhM37ICels?si=cJURarSvEzfIq6bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

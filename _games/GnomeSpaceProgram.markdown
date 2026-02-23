@@ -5,7 +5,7 @@ date:   2025-04-01
 categories: games
 ---
 ### Gnome Space Program is an open-source game about launching garden gnomes into space. The name is not final and is subject to change.
-[![Image](/assets/images/gspoldbanner.png)](/games/GnomeSpaceProgram/)
+[![Image](/assets/images/gspoldbanner.png)](/games/GnomeSpaceProgram.html)
 
 ### April Fools trailer:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2d40WUOFXoU?si=wsBrcVpfbfOmCAjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

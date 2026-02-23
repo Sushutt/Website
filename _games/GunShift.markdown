@@ -5,7 +5,7 @@ date:   2025-03-08
 categories: games
 ---
 ### Gun Shift is a short game where the only way to move is with the help of your gun's recoil.
-[![Image](/assets/images/gunshiftbanner.png)](/games/GunShift/)
+[![Image](/assets/images/gunshiftbanner.png)](/games/GunShift.html)
 
 ### Description:
 Gun Shift is a game where the only way to move is with a gun. You must use your recoil to move yourself around 10 different levels all while fighting off varying enemies.
