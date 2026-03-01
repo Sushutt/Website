@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This site is now sushut.ca!"
-date:   2026-02-21 21:31:36 -0800
+date:   2026-02-28 00:00:00 -0800
 categories: news
 ---
 It has been a week since this site has been created. I have decided to migrate this site to the sushut.ca domain.
