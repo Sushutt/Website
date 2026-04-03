@@ -4,7 +4,8 @@ title:  "What is left for the release of GSP v0.2"
 date:   2026-04-02 00:00:00 -0800
 categories: news
 ---
-Following the release of a stupid little trailer this April Fools, I thought it would be nice to ramble on about the things I have left to do.
+Following the release of a [stupid little trailer this April Fools](https://www.youtube.com/watch?v=eyUL-50_UcI), I thought it would be nice to ramble on about the things I have left to do.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eyUL-50_UcI?si=XSWfpmesCETPuPwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # New Features:
 All MAJOR features have already been implemented. That leaves some smaller QOL features to implement. Here is a list:
